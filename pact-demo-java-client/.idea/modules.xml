@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pact-demo-java-client.iml" filepath="$PROJECT_DIR$/.idea/modules/pact-demo-java-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pact-demo-java-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pact-demo-java-client_main.iml" group="pact-demo-java-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pact-demo-java-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pact-demo-java-client_test.iml" group="pact-demo-java-client" />
     </modules>
   </component>
 </project>
