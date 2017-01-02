@@ -26,12 +26,12 @@ public class PersonController {
   public static class Person {
 
     public String lastname;
-    public String forename;
+    public String firstname;
     public LocalDate birthday;
 
-    static Person create(String forename, String lastname, LocalDate birthday) {
+    static Person create(String firstname, String lastname, LocalDate birthday) {
       final Person person = new Person();
-      person.forename = forename;
+      person.firstname = firstname;
       person.lastname = lastname;
       person.birthday = birthday;
       return person;
